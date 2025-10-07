@@ -1,1 +1,6 @@
-Hola este es mi primer archivo,jhonatan
+<<<<<<< Updated upstream
+Hola Hernando este es mi primer archivo
+=======
+Hola este es mi primer archivo pepepe
+
+>>>>>>> Stashed changes
